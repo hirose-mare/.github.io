@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Mare Hirose. I am currently pursuing my Ph.D. degree in the Graduate School of Informatics at Chiba University, under the supervision of Assoc. Prof. [Shoko Imaizumi](https://msp.chiba-u.net/shoko_imaizumi/). My interests focuses on multimedia security and machine learning, especially privacy-preserving image processing and learnable image encryption. My work is supported by [JST BOOST](https://www.jst.go.jp/jisedai/boost-s/en/about/index.html), and I am also a member of [Frontier Science Program for Graduate Students]([https://www.jst.go.jp/jisedai/boost-s/en/about/index.html](https://www.se.chiba-u.jp/frontierscience/)) at Chiba University.
+My name is Mare Hirose. I am currently pursuing my Ph.D. degree in the Graduate School of Informatics at Chiba University, under the supervision of Assoc. Prof. [Shoko Imaizumi](https://msp.chiba-u.net/shoko_imaizumi/). My interests focuses on multimedia security and machine learning, especially privacy-preserving image processing and learnable image encryption. My work is supported by [JST BOOST](https://www.jst.go.jp/jisedai/boost-s/en/about/index.html), and I am also a member of [Frontier Science Program for Graduate Students](https://www.se.chiba-u.jp/frontierscience/) at Chiba University.
 
 
 ## Publication
