@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Mare HIROSE"
   pronouns         : "she/her"  
   bio              : "Ph.D. Student"
@@ -65,7 +65,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/mare-hirose-93b222391/"
+  linkedin         : "https://www.linkedin.com/in/mare-hirose-93b222391"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
