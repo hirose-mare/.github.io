@@ -42,6 +42,9 @@
     "vendor/font-awesome/brands"
 ;
 
-.page__content {
-  font-size: 0.85rem;  // 小さくしたい度合いに応じて 0.85〜0.95 くらいで調整
+.page__content,
+.page__content p,
+.page__content li,
+.archive__item-excerpt {
+  font-size: 0.85rem !important;  // 小さくしたい度合いで 0.85〜0.95 に調整
 }
