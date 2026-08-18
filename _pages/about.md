@@ -20,6 +20,8 @@ My name is Mare Hirose. I am currently pursuing my Ph.D. degree in the Graduate 
 
 - <u>Mare Hirose</u>, Shoko Imaizumi, and Hitoshi Kiya, “[On the Security of Bitstream-level JPEG Encryption with Restart Markers](https://ieeexplore.ieee.org/abstract/document/10849178),” in Proc. of APSIPA Annual Summit and Conference, Macau, China, 5th November, 2024. (**Oral presentation**)
 
+- <u>Mare Hirose</u>, Shoko Imaizumi, and Hitoshi Kiya, “Privacy-Preserving Semantic Segmentation without Key Management,” in Proc. of ICCE-TW, Taoyuan, Taiwan, 1st July, 2026. (**Oral presentation**)
+
 ### Conference Papers (Japanese)
 
 - <u>廣瀬万玲</u>, 今泉祥子, 貴家仁志, “情報半開示可能なJPEGビットストリームレベルの暗号化法,” 電子情報通信学会 EMM研究会, vol. 123, no. 332 (EMM2023-85), pp. 26-31, 仙台市, 2024年1月17日.（**口頭発表**）
@@ -29,3 +31,5 @@ My name is Mare Hirose. I am currently pursuing my Ph.D. degree in the Graduate 
 - 渡邉朝陽, <u>廣瀬万玲</u>, 今泉祥子, “情報埋込みを用いたAI生成画像の自動識別の検討,” 電子情報通信学会 SIP研究会, vol. 125, no. 53 (SIP2025-15), pp. 83-88, 金沢市, 2025年6月5日.（**口頭発表**）
 
 - 板橋悠伎, 澤田寛人, <u>廣瀬万玲</u>, 今泉祥子, 貴家仁志, “画像復元攻撃に対する耐性強化のための連合学習における二重秘匿化手法,” 電子情報通信学会 EMM研究会, vol. 125, no. 396 (EMM2025-121), pp. 25-30, 宮古島市, 2026年3月5日.（**ポスター発表**）
+
+- <u>廣瀬万玲</u>, 今泉祥子, 貴家仁志, “学習可能画像暗号化手法を用いたディープモデル反転攻撃に対する耐性強化,” 電子情報通信学会 EMM研究会, vol. 126, no. 112 (EMM2026-52), pp. 218-223, 札幌市, 2026年7月6日.（**口頭発表**）
